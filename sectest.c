@@ -7,5 +7,7 @@ int main()
     scanf("%d %d", &a,&b);
     s=a+b;
     printf("la somme est = %d",s);
+    printf("verifier github");
     return 0;
+    
 }
