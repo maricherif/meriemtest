@@ -8,6 +8,8 @@ int main()
     s=a+b;
     printf("la somme est = %d",s);
     printf("verifier github");
+    printf("bien comprendre");
     return 0;
+    
     
 }
